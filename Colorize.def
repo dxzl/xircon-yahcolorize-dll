@@ -1,0 +1,10 @@
+LIBRARY     COLORIZE.DLL
+
+EXPORTS
+    _ColorPause                    @1   
+    _ColorResume                   @2   
+    _ColorStart                    @3   
+    _ColorStop                     @4   
+    _Colorize_Init                 @5   
+    _Colorize_Version              @6   
+    ___CPPdebugHook                @7   
